@@ -496,14 +496,6 @@ class _HomePageState extends State<HomePage> {
           child: Text('カレンダーを作成しましょう\n設定のページから作成できます'),
         );
       } else {
-        /*
-        return StreamBuilder(
-            stream: getFirstStamp(),
-            builder: (context, snapshot) {
-              return Container();
-            });
-        */
-
         return MaterialApp(
           debugShowCheckedModeBanner: false,
           localizationsDelegates: const [
@@ -545,7 +537,7 @@ class _HomePageState extends State<HomePage> {
                 title: Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: Text(
-                    'はじめてカレンダーtest',
+                    'はじめてカレンダー',
                     style: TextStyle(
                         color: primaryColor,
                         fontSize: _screenSize.height * 0.02),
