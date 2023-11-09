@@ -545,7 +545,7 @@ class _HomePageState extends State<HomePage> {
                 title: Padding(
                   padding: const EdgeInsets.all(8.0),
                   child: Text(
-                    'はじめてカレンダー',
+                    'はじめてカレンダーtest',
                     style: TextStyle(
                         color: primaryColor,
                         fontSize: _screenSize.height * 0.02),
