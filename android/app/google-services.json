@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458365143660",
+    "project_id": "hazimete-calendar",
+    "storage_bucket": "hazimete-calendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458365143660:android:ed7905616f3539f36be649",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.hazimetecalendar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGIUgtz5pERObtaE9plazUfb0elCRoFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
